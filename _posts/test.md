@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      ╡Бйтндуб
-subtitle:   no
+title: б═ б═  test use
+subtitle: б═  no
 date:       2017-11-15
 author:     icosohedal
 header-img: 
