@@ -5,7 +5,7 @@ subtitle:   7th Grade English
 date:       2017-11-23
 author:     icosohedral
 header-img: img/post-bg-white.jpg
-catalog: false
+catalog: true
 tags:
 ---
 
