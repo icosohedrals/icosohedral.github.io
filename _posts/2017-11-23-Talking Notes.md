@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Talking Notes
 subtitle:   7th Grade English
