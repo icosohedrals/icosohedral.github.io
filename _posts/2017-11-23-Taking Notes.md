@@ -4,7 +4,7 @@ title:      Taking Notes
 subtitle:   7th Grade English
 date:       2017-11-23
 author:     icosohedral
-header-img: img/post-bg-white.jpg
+header-img: img/taking notes.jpg
 catalog: true
 tags:
 ---
